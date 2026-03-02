@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+python-docx
+transformers
+torch
+sqlalchemy
+psycopg2-binary
+apscheduler
